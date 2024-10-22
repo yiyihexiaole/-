@@ -1,16 +1,14 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-    <h1>This is an about page</h1>
-  </div>
+    <div class="about">
+        <div >nihao</div>
+        <div class="mt-2 text-3xl font-bold underline">nih123123ao</div>
+    </div>
 </template>
 
-<style>
-@media (min-width: 1024px) {
-  .about {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-  }
-}
+<script setup>
+    
+</script>
+
+<style scoped lang="scss">
+
 </style>
